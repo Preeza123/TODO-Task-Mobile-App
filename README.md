@@ -13,3 +13,4 @@ This project is focused on learning mobile app UI/UX design and cross-platform a
 - Task due date & time picker
 -  Beautiful UI based on Figma design
 -  Task completion toggle
+This project is a part of a hackathon run by https://www.katomaran.com
